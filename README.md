@@ -40,6 +40,18 @@ Security Data
 → Automation & Validation  
 → Compliance Reporting  
 
+## Data Sources (Sanitized Description)
+
+The dashboards and remediation analysis are based on aggregated and sanitized datasets derived from:
+
+- Attack simulation and exposure analysis outputs (e.g., Pentera)
+- Active Directory account and credential posture reports
+- Identity governance and management (IDM) reports
+- Privileged and service account inventories
+
+Note: No production data, internal dashboards, or confidential artifacts are included in this repository. The implementation described here reflects the methodology and workflow used in enterprise environments.
+
+
 ---
 
 ## Tools & Technologies
