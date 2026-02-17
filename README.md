@@ -90,5 +90,12 @@ Note: No production data, internal dashboards, or confidential artifacts are inc
 ## Future Improvements
 - Real-time dashboards  
 - Automated risk scoring  
-- Integration with SIEM or identity threat detection platforms  
+- Integration with SIEM or identity threat detection platforms
+
+## Governance & Security Value
+- Improved visibility into credential hygiene risks
+- Enabled consistent weekly remediation cycles
+- Standardized analysis methodology across identity datasets
+- Supported audit and compliance reporting
+
 
