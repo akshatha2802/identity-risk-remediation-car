@@ -40,6 +40,11 @@ Security Data
 → Automation & Validation  
 → Compliance Reporting  
 
+## Workflow Diagram
+See the workflow diagram here:
+Identity_Risk_Remediation_Workflow.pptx
+
+
 ## Data Sources (Sanitized Description)
 
 The dashboards and remediation analysis are based on aggregated and sanitized datasets derived from:
